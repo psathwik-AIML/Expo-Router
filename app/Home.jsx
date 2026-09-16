@@ -6,6 +6,7 @@ const Home = () => {
       <Text style={{ color: "red", fontSize: 30 }}>Home</Text>
       <Link href="/About">About</Link>
       <Link href="/Profile">Profile</Link>
+      <Link href="/Products">Products</Link>
     </View>
   );
 };
