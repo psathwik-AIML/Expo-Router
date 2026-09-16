@@ -1,5 +1,5 @@
 import { View } from "react-native";
-import Intro from "../All Codes/Intro/Intro";
+import App from "../All Codes/FileBasedRouting/FileBasedRouting";
 export default function Index() {
   return (
     <View
@@ -8,7 +8,7 @@ export default function Index() {
         padding: 20,
       }}
     >
-      <Intro />
+      <App />
     </View>
   );
 }
