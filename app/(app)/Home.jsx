@@ -14,6 +14,7 @@ const Home = () => {
       <Link href="/Register">Register</Link>
       <Link href="/Login">Login</Link>
       <Link href="/hi">global scope -notfound</Link>
+      <Link href="/code">NavCode</Link>
     </View>
   );
 };
