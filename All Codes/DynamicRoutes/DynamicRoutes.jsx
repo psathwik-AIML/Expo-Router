@@ -1,5 +1,5 @@
 import { StyleSheet, View } from "react-native";
-import Home from "../../app/Home";
+import Home from "../../app/(app)/Home";
 const DynamicRoutes = () => {
   return (
     <View>

@@ -11,6 +11,8 @@ const Home = () => {
       <Link href="/Products/bestseller/samsung">best seller -samsung </Link>
       <Link href="/Products/goodrate/samsung">good rate -samsung </Link>
       <Link href="/Products/highdemand/samsung">high demand -samsung </Link>
+      <Link href="/Register">Register</Link>
+      <Link href="/Login">Login</Link>
       <Link href="/hi">global scope -notfound</Link>
     </View>
   );

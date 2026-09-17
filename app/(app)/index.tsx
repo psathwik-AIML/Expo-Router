@@ -1,5 +1,5 @@
 import { View } from "react-native";
-import App from "../All Codes/DynamicRoutes/DynamicRoutes";
+import App from "../../All Codes/DynamicRoutes/DynamicRoutes";
 export default function Index() {
   return (
     <View
