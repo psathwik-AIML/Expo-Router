@@ -1,5 +1,5 @@
 import { View } from "react-native";
-import App from "../../All Codes/TabNavigationCode/TabNavigation";
+import App from "../../All Codes/DrawerNavigationCode/DrawerNavigation";
 export default function Index() {
   return (
     <View
