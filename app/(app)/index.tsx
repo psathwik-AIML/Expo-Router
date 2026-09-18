@@ -1,5 +1,5 @@
 import { View } from "react-native";
-import App from "../../All Codes/StackNavigationCode/StackNavigationCode";
+import App from "../../All Codes/TabNavigationCode/TabNavigation";
 export default function Index() {
   return (
     <View
